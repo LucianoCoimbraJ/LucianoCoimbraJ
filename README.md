@@ -43,6 +43,7 @@ Aprendendo a programar no SENAI-Florianopólis... 🎸
 Fique à vontade para entrar em contato comigo! Vamos trocar ideias e conhecimento.
 
 <!-- - LinkedIn: [rafael-lindemann-duarte-59437867](https://www.linkedin.com/in/rafael-lindemann-duarte-59437867e/) -->
-<!-- - Email: seuemail@example.com -->
+<!-- - Email: lucianojuniorph@gmail.com -->
+<!-- - Email: luciano_almeida-j@estudante.sesisenai.org.br -->
 
 <!-- <span style="color: red;">Este texto é vermelho</span> -->
